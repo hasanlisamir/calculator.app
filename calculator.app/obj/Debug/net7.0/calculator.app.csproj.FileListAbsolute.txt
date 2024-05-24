@@ -1,0 +1,15 @@
+/Users/samirhasanli/Projects/calculator.app/calculator.app/bin/Debug/net7.0/calculator.app
+/Users/samirhasanli/Projects/calculator.app/calculator.app/bin/Debug/net7.0/calculator.app.deps.json
+/Users/samirhasanli/Projects/calculator.app/calculator.app/bin/Debug/net7.0/calculator.app.runtimeconfig.json
+/Users/samirhasanli/Projects/calculator.app/calculator.app/bin/Debug/net7.0/calculator.app.dll
+/Users/samirhasanli/Projects/calculator.app/calculator.app/bin/Debug/net7.0/calculator.app.pdb
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/calculator.app.csproj.AssemblyReference.cache
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/calculator.app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/calculator.app.AssemblyInfoInputs.cache
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/calculator.app.AssemblyInfo.cs
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/calculator.app.csproj.CoreCompileInputs.cache
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/calculator.app.dll
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/refint/calculator.app.dll
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/calculator.app.pdb
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/calculator.app.genruntimeconfig.cache
+/Users/samirhasanli/Projects/calculator.app/calculator.app/obj/Debug/net7.0/ref/calculator.app.dll
